@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,customer_name,email,phone,age,country,city
+1,John,Smith,John Smith,john.smith@gmail.com,555-0101,34,USA,New York
+2,Sarah,Johnson,Sarah Johnson,sarah.j@yahoo.com,555-0102,28,USA,Los Angeles
+3,Michael,Williams,Michael Williams,m.williams@gmail.com,,45,Canada,Toronto
+4,Emma,Brown,Emma Brown,emma.b@hotmail.com,555-0104,22,UK,London
+5,James,Davis,James Davis,james.davis@gmail.com,555-0105,67,USA,Chicago
+6,Olivia,Miller,Olivia Miller,olivia.m@gmail.com,555-0106,19,Australia,Sydney
+7,William,Wilson,William Wilson,w.wilson@outlook.com,,52,USA,New York
+8,Sophia,Moore,Sophia Moore,sophia.moore@gmail.com,555-0108,31,Canada,Vancouver
+9,Benjamin,Taylor,Benjamin Taylor,ben.t@gmail.com,555-0109,41,USA,Seattle
+10,Isabella,Anderson,Isabella Anderson,isabella.a@gmail.com,555-0110,15,UK,Manchester
+11,Lucas,Thomas,Lucas Thomas,lucas.thomas@gmail.com,555-0111,29,USA,Boston
+12,Mia,Jackson,Mia Jackson,mia.j@yahoo.com,555-0112,38,Canada,Montreal
+13,Henry,White,Henry White,h.white@gmail.com,,70,USA,Miami
+14,Charlotte,Harris,Charlotte Harris,charlotte.h@gmail.com,555-0114,26,Australia,Melbourne
+15,Alexander,Martin,Alexander Martin,alex.m@gmail.com,555-0115,33,USA,San Francisco

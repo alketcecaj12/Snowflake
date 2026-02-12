@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock_quantity
+101,Laptop Pro 15,Electronics,1299.99,45
+102,Wireless Mouse,Electronics,29.99,250
+103,USB-C Cable,Accessories,15.99,500
+104,Office Chair,Furniture,249.99,30
+105,Desk Lamp,Furniture,45.50,120
+106,Notebook Set,Stationery,12.99,300
+107,Mechanical Keyboard,Electronics,159.99,80
+108,Monitor 27 inch,Electronics,399.99,25
+109,Webcam HD,Electronics,89.99,60
+110,Headphones Premium,Electronics,199.99,95
+111,Standing Desk,Furniture,599.99,15
+112,Pen Pack,Stationery,8.99,400
+113,External SSD 1TB,Electronics,129.99,70
+114,Phone Stand,Accessories,19.99,180
+115,Backpack Laptop,Accessories,79.99,110
