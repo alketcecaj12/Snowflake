@@ -1,5 +1,11 @@
 ### Data Engineering with Snowflake
 
-- advanced concepts in Snowflake SQL 
+- Advanced concepts in Snowflake SQL 
+  - Window functions (very powerful in Snowflake)
+  - CTEs (Common Table Expressions)
+  - Date/time functions
+  - String functions
+  - QUALIFY clause (Snowflake-specific)
+
 - Snowpark and how to work with it in Snowflake
 - Dashboard in Streamlit
