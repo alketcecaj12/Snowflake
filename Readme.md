@@ -8,4 +8,7 @@
   - QUALIFY clause (Snowflake-specific)
 
 - Snowpark and how to work with it in Snowflake
-- Dashboard in Streamlit
+
+- Dashboards in Streamlit
+
+- Scheduling in Airflow 
