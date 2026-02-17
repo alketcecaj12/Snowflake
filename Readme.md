@@ -1,7 +1,7 @@
 ### Data Engineering with Snowflake
 
 - Advanced concepts in Snowflake SQL 
-  - Window functions (very powerful in Snowflake)
+  - Window functions (very powerful in Snowflake and Apache Spark)
   - CTEs (Common Table Expressions)
   - Date/time functions
   - String functions
